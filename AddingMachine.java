@@ -1,4 +1,4 @@
-package CSE360Assignment02;
+package cse360assignment02;
 import java.util.ArrayList;
 public class AddingMachine {
 	  private int total;
